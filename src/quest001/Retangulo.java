@@ -1,8 +1,8 @@
 package quest001;
 
 public class Retangulo {
-    double largura;
-    double altura;
+    private double largura;
+    private double altura;
 
     public Retangulo(double largura, double altura) {
         this.largura = largura;
